@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources,InconsistentArrays,TypographyDashes">
+    <string name="rss_target_for_poi_authority" />
+    <string-array name="rss_feeds">
+        <item>https://transcollines.ca/en/feed/</item>
+        <item>https://transcollines.ca/feed/</item>
+    </string-array>
+    <string-array name="rss_feeds_author_icon">
+        <item>https://transcollines.ca/wp-content/uploads/2022/05/CO_pastille_RGB-1.png</item>
+        <item>https://transcollines.ca/wp-content/uploads/2022/05/CO_pastille_RGB-1.png</item>
+    </string-array>
+     <string-array name="rss_feeds_author_url">
+        <item>https://transcollines.ca/en/category/news/</item>
+        <item>https://transcollines.ca/category/nouvelles/</item>
+    </string-array>
+    <string-array name="rss_feeds_label">
+        <item>transcollines.ca</item>
+        <item>transcollines.ca</item>
+    </string-array>
+    <string-array name="rss_feeds_lang">
+        <item>en</item>
+        <item>fr</item>
+    </string-array>
+</resources>
