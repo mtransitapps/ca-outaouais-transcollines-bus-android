@@ -7,7 +7,7 @@
     "trip_headsign_remove_via": true,
     "trip_id_cleanup_regex": "^\\d{8}-",
     "trip_headsign_cleaners": [],
-    "stop_id_cleanup_regex": "-",
-    "use_stop_code_for_stop_id": true,
+    "stop_id_cleanup_regex": "^[A-Z]+|-",
+    "use_stop_code_for_stop_id": false,
     "stop_name_cleaners": []
 }
